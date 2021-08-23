@@ -8,8 +8,9 @@
 
 - Above image, right box is CheckBox (Probably, you already know this..)
 
-- CheckBox is able to choose multiple checkbox
-- This often use in form <br/>
+- CheckBox is able to choose multiple!
+
+- This often use in 'form' <br/>
 <br/><br/>
 
 
