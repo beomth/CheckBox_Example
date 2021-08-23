@@ -14,8 +14,9 @@
 
 ##How does Project work? <br/>
 #### So easy Example!!
-<img src = "https://user-images.githubusercontent.com/76798832/130382059-127a9ac7-a860-4c05-b197-ead80ec0e68b.gif" width="350" height="600" />
+<img src = "https://user-images.githubusercontent.com/76798832/130382059-127a9ac7-a860-4c05-b197-ead80ec0e68b.gif" width="330" height="600" />
 
+- As you can see, if you want to send to EditText about Checkbox information, Use getText()!!
 
 
 
