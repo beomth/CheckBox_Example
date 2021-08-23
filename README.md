@@ -1,7 +1,7 @@
 # CheckBox_Example
 ## _This is very Simple Example of CheckBox_
 #### Also, this code is only java(including android method) <img src ="https://img.shields.io/badge/Java-yellow.svg?&style=flat&logo=java&logoColor=white"/> <br/>
-<img src ="https://img.shields.io/badge/Android-#3DDC84.svg?&style=flat&logo=android&logoColor=white"/>
+<img src ="https://img.shields.io/badge/Android-white.svg?&style=flat&logo=android&logoColor=white"/>
 
 
 <img src = "file:///C:/Users/onvit/Downloads/android.svg"/>
