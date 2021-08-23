@@ -4,7 +4,7 @@
 
 ## What is the CheckBox??
 
-<img src = "https://user-images.githubusercontent.com/76798832/130378461-0c1e517a-cf29-4152-9c4b-fbc8e1da9ed8.png" width="400" height="150:/>
+<img src = "https://user-images.githubusercontent.com/76798832/130378461-0c1e517a-cf29-4152-9c4b-fbc8e1da9ed8.png" width="400" height="150" />
 
 
 
