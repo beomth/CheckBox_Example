@@ -9,10 +9,10 @@
 - Above image, right box is CheckBox (Probably, you already know this..)
 
 - CheckBox is able to choose multiple checkbox
-- This often use in form
+- This often use in form <br/>
 
 
-##How does Project work? <br/>
+## How does Project work? 
 #### So easy Example!!
 <img src = "https://user-images.githubusercontent.com/76798832/130382059-127a9ac7-a860-4c05-b197-ead80ec0e68b.gif" width="330" height="600" />
 
